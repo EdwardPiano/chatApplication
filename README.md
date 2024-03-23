@@ -1,3 +1,3 @@
 # chatApplication
 チャットアプリケーション
-<img width="1470" alt="截圖 2024-03-23 下午5 16 11" src="https://github.com/EdwardPiano/chatApplication/assets/85467985/9fdb0600-9f7e-4454-9f7b-d84662f31eae">
+<img width="1345" alt="截圖 2024-03-23 下午5 19 55" src="https://github.com/EdwardPiano/chatApplication/assets/85467985/9afafd4f-9255-4c4d-b479-9cd07b17894c">
